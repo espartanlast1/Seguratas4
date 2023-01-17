@@ -3,4 +3,4 @@ project(Seguratas4)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(Seguratas4 main.cpp)
+add_executable(Seguratas4 main.cpp infoSegurata.h)
